@@ -18,7 +18,7 @@
     />
   </div>
   <h1>Utkarsh Goel</h1>
-  <h2>Founder, <a href="https://deploif.ai">Deploifai</a></h2>
+  <h2>Entrepreneur, Engineer</h2>
   <p>
     <a href="https://github.com/utkarsh867" target="_blank">GitHub</a>,
     <a href="https://twitter.com/javachipd" target="_blank">Twitter</a>,
@@ -31,24 +31,15 @@
     world for the better.
   </p>
   <p>
-    I co-founded and build <a href="https://clearbot.org">Clearbot</a>
-    and lead technology development as CTO at
-    <a href="https://openoceancam.com">Open Ocean Camera</a>. I have recently
-    stumbled upon a problem in MLOps so I have founded
-    <a href="https://deploif.ai">Deploifai</a> to solve it for myself and everyone
-    else.
+    I'm building self-driving boats at <a href="https://clearbot.org"
+      >Clearbot</a
+    >. I also run a SaaS platform, <a href="https://deploif.ai">Deploifai</a> for
+    automating ML development infrastructure. I love teaching, building things and
+    writing computer programs.
   </p>
 
   <p>
-    I also love teaching and sharing things in tech and I'll build a developer
-    community wherever one needs to exist!
-  </p>
-
-  <p>
-    <span>Would like to have me as a freelance software developer?<br /></span>
-    I can build web applications, do some UI/UX and I'll crush backend development
-    and DevOps. Contact me at my email:
-    <a href="mailto:contact@utkarshgoel.dev">contact@utkarshgoel.dev</a>.
+    <span>Reach out to me on Twitter if you need to!<br /></span>
   </p>
 </div>
 
