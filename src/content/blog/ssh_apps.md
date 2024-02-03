@@ -24,9 +24,9 @@ The fact is, all of the above is possible, with a secure connection, over an oth
 
 ## The concept of SSH Apps
 
-This has piqued my interest since I learned about [wish](https://github.com/charmbracelet/wish) on YouTube. I watched it, and my first reaction was "Of course!" and then my brain started imagining the possibilities to bring this together with what I do at work!
+This has piqued my interest since I learned about [wish](https://github.com/charmbracelet/wish) on YouTube. I watched it, and my first reaction was "Of course!" and then I could not stop imagining the possibilities of what all I could achieve with this concept, at work!
 
-I manage a few servers, and remote machines (robots) every now and then using SSH. There are a couple of repeated tasks when I remote into one of our robots. Usually, it is to check if a daemon service is running well, read some logs, or run commands. I have been wondering if I could create a simple SSH app that would help me with these tasks. That way, I can simply "SSH into the app" to get a quick glance at everything I usually need to see, and build some actions in so that I can run with simple key presses.
+I manage a few servers, and remote machines (robots) every now and then using SSH. There are a couple of repeated tasks when I remote into one of our robots. Usually, it is to check if a daemon service is running well, read some logs, or run commands. I have been wondering if I could create a simple SSH app that would help me with these tasks. That way, I can simply "SSH into the app" to get a quick glance at everything I usually need to see, and build in some keyboard shortcuts that I can run with simple key presses.
 
 And that is exactly what I will be doing very soon! I will be using wish, along with [bubbletea](https://github.com/charmbracelet/bubbletea), to create an SSH app for robot diagnosis.
 
