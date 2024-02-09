@@ -3,7 +3,7 @@ author: Utkarsh Goel
 pubDatetime: 2023-11-28T15:22:00Z
 title: Import your Rust code in Python
 postSlug: rust_python_lib
-featured: true
+featured: false
 draft: false
 tags:
   - python

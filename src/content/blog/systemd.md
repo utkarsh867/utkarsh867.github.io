@@ -3,7 +3,7 @@ author: Utkarsh Goel
 pubDatetime: 2023-09-18T15:22:00Z
 title: Systemd your code that needs to start at boot (Linux)
 postSlug: systemd-your-code
-featured: true
+featured: false
 draft: false
 tags:
   - systemd
