@@ -12,7 +12,7 @@ ogImage: ""
 description: The part 2 to the multi-part series of a developer's journey with ROS2 and Python
 ---
 
-This is the second part of the series that I have promised to eventually complete before September. If you have not read fir the first part, you might still be able to make sense of this if you are an absolute chad. You can always go back and read the [first part](/posts/ros_part1).
+This is the second part of the series that I have promised to eventually complete before September. If you have not read the first part, you might still be able to make sense of this if you are an absolute chad. You can always go back and read the [first part](/posts/ros_part1).
 
 In this part, I am going to cover the next chunk of content that is also a part of my talk. I left the last part at teasing the `colcon build` command in an empty ROS workspace. Let's pick up from there. We can start writing some actual code in there. If you have never written ROS packages before, you might feel a bit lost. ROS is opinionated. You need to structure your packages a certain way, need to write your nodes a certain way and then build and run your nodes in a specific way as well. Its not all that hard once you know what goes where.
 
