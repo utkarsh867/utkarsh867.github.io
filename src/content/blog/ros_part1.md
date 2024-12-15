@@ -34,7 +34,11 @@ What Ubuntu version you use depends on the year in which you are reading this po
 
 Just don't fuck around here. Seriously read through the installation instructions and be a champ and install at least the non-optional stuff fully.
 
-I'll also add in a tip that you'll need this thing called `colcon` working properly. As of today (when I wrote this), the package was called `python3-colcon-common-extensions` and I could install it with `sudo apt install python3-colcon-common-extensions`. Thank me later!
+I'll also add in a tip that you'll need this thing called `colcon` working properly. As of today (when I wrote this), the package was called `python3-colcon-common-extensions` and I could install it with:
+
+```
+sudo apt install python3-colcon-common-extensions
+```
 
 If you really have ROS installed on your system, you should be able to `source` it in your terminal and run the basic ROS command line stuff.
 
